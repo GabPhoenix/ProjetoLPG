@@ -95,7 +95,7 @@ self.label.configure()
 ### Elements from configure:
 * background : change the background color.
 
-* activebacground : change the background color when the user click on the element.
+* activebackground : change the background color when the user click on the element.
 
 * foreground : change the text color.
 
