@@ -24,7 +24,7 @@
 > To build a window we use self.top(name top is not obrigatory, is just a standard)
 ~~~python
 self.top = tk.Tk() #it starts the window
-self.top.mainloop() #it close turns the window loop on
+self.top.mainloop() #it turns the window loop on
 ~~~
 
 #### Between this line we create our window 
