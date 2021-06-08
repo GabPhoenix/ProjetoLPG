@@ -1,7 +1,7 @@
 # Description-  programming logic project 
 ## ADS - IFPE
 ## Colleges: Gabriel Carvalho and Rodrigo Rocha
-## Professor: Msc. Dr. Eugênio Saraiva
+## Professor: Phd Eugênio Saraiva
 
 ### Category: sales 
 ### Objectives: make easly for stores and clients to sell and purchase
