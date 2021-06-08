@@ -21,7 +21,7 @@
 > to create the code, build the elements self.name and pass the tkinter element.
 
 ### Building a window
-> To build a window we use self.top(name top is not obrigatory, is just a standards)
+> To build a window we use self.top(name top is not obrigatory, is just a standard)
 ~~~python
 self.top = tk.Tk() #it starts the window
 self.top.mainloop() #it close turns the window loop on
