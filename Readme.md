@@ -117,7 +117,7 @@ self.label.configure()
 
 * anchor : use to set the position for the element.
 
-* obs: use hexadecimal colors .
+##### observation: use hexadecimal colors .
 
 #### commands for the Buttons
 > to make a button do something we use the element command (still into configure). Obs: if the button need to recive two or more commands, you need to use lambda function like:
