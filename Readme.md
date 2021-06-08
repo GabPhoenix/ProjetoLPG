@@ -24,7 +24,7 @@
 > To build a window we use self.top(name top is not obrigatory, is just a standard)
 ~~~python
 self.top = tk.Tk() #it starts the window
-self.top.mainloop() #it turns the window loop on
+self.top.mainloop() #it turns the window on loop
 ~~~
 
 #### Between this line we create our window 
@@ -33,7 +33,7 @@ self.top.mainloop() #it turns the window loop on
 > We need define the window geometry (or tkinter will build it 300x300 px) but in out code we put in fullsceen as an atribute.
 ~~~python
 self.top.geometry("1280x720") #per exemple
-self.name.atribute = "-fullscreen", True)
+self.name.atribute = ("-fullscreen", True)
 ~~~
 
 ### Frames
