@@ -33,7 +33,7 @@ self.top.mainloop() #it turns the window on loop
 > We need define the window geometry (or tkinter will build it 300x300 px) but in out code we put in fullsceen as an atribute.
 ~~~python
 self.top.geometry("1280x720") #per exemple
-self.name.atribute = ("-fullscreen", True)
+self.name.atribute = ("-fullscreen", True) #as we used
 ~~~
 
 ### Frames
@@ -53,9 +53,9 @@ self.labelname = tk.Label()
     </div>
 </body>
 ~~~
-#### But, in python
+#### But, in python:
 ~~~python
-self.labelname = tk.Label(self.frame) # The frame tha we created above
+self.labelname = tk.Label(self.frame) # The frame that we created above
 ~~~
 
 #### Entry
@@ -99,7 +99,7 @@ self.label.configure()
 
 * foreground : change the text color.
 
-* activebacground : change the text color when the user click on the element.
+* activeforeground : change the text color when the user click on the element.
 
 * relief : change the border type.
 
