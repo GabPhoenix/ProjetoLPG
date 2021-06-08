@@ -136,7 +136,7 @@ self.top.destroy()
 #### Building functions
 > We can build functions to create a new window or for commands, but we need use self as a parameter
 ~~~ python
-def function(self):
+def function_name(self):
     pass
 ~~~
 
