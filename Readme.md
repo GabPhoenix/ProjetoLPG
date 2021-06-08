@@ -3,7 +3,7 @@
 ## Colleges: Gabriel Carvalho and Rodrigo Rocha
 ## Professor: Msc. Dr. Eugênio Saraiva
 
-### Category: sells 
+### Category: sales 
 ### Objectives: make easly for stores and clients to sell and purchase
 
 ### Language: 
