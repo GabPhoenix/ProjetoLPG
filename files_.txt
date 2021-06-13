@@ -1,0 +1,11 @@
+produtos:  
+Cooktop
+preços:  
+581.83
+forma de pagamento: forma de pagamento não informada
+nome: nome não informado
+data de nascimento: data de nascimento não informada
+cpf: cpf não informado
+endereço: endereço não informado
+número da casa: número da casa não informado
+[[datetime.date(2021, 6, 13)], ['Sunday']]
