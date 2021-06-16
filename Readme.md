@@ -6,6 +6,8 @@
 ### Category: sales 
 ### Objectives: make easly for stores and clients to sell and purchase
 
+<a href="https://youtu.be/EnuNZNGP-aU">video about the project</a>
+
 ### Language: 
 > Python 
 
