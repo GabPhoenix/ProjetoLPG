@@ -74,7 +74,7 @@ class Toplevel1:
                 self.btncar.configure(highlightbackground="#d9d9d9") 
                 self.btncar.configure(command=self.janela2)
 
-                car = tk.PhotoImage(file="C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\carrinho.png") #image
+                car = tk.PhotoImage(file="carrinho.png") #image
                 self.btncar.configure(image=car)
                 self.btncar.configure(relief='flat')
                 self.btncar.configure(cursor='hand2')
