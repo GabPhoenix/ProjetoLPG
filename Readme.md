@@ -152,3 +152,67 @@ self.label.configure(
     text = "Hello World"
 )
 ~~~
+
+<a>Learn more about Tkinter</a>
+
+## Main
+
+####To main part, we needed build 2 lists to recive the products and the prices.
+
+~~~ python
+products = []
+prices = []
+~~~~
+> trhough the buttons, we append items to the lists above, starting a function.
+
+~~~ python
+def button():
+        item_name = 'name'
+        item_price = 1000.00
+        product.append(item_name)
+        price.append(item_price)
+~~~
+#### We need build a function for every button (because it's a command). The function above is for the buttons that will addict products to the market cart, as we have 10 products, we built 10 functions (one function for every button like button1, button2...)
+
+#### Function pro 
+> This function is referent to the second window. Recive the data of the client and write a txt with every information (in case the client don't inform, will write as "name was not informated".
+> This function also get date, hour and day that the purchase was fulfilled as a headquarters.
+~~~ python
+    time = [[''],['']]
+    hour = date.today()
+    day = date.today()
+    dayname = calendar.day_name[day.weekday()]
+    time[0][0] = hour
+    time[1][0] = dayname
+~~~ 
+> As this function recive data from a window tk, we need use "self" as parameter.
+~~~ python
+def pro(self):
+    name = self.entry.get()#getting teh value from a entry (in this case, the entry name)
+    if name == "":
+        file.write("name was not informated")
+    else:
+        file.write(name + "\n") # \n to jump to next line
+    
+~~~
+> still inside this function we count the values from our lists above and write txt file with the information.
+~~~ python
+for i in range(len(prices)):
+    file.write(str(price[i] + "\n")
+~~~
+> After we write the values from teh entries
+
+~~~ python
+file.write(name + "\n")
+file.write(cpf + "\n")
+file.write(birthdate + "\n")
+file.write(address + "\n")
+file.write(house_number + "\n")
+~~~
+
+#### Calling the class 
+> In case we have a error, this command will verify if the program is executing alone.
+~~~ python
+if __name__ == "__main__":
+        Toplevel1()
+~~~ 
