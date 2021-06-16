@@ -4,7 +4,6 @@ import sys
 
 from tkinter import Image, StringVar
 
-import pandas as pd
 
 from PIL import Image, ImageTk 
 from datetime import date, datetime
