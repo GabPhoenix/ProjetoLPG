@@ -6,7 +6,7 @@
 ### Category: sales 
 ### Objectives: make easly for stores and clients to sell and purchase
 
-<a href="https://youtu.be/EnuNZNGP-aU">video about the project</a>
+<a href="https://youtu.be/EnuNZNGP-aU">video about the project</a> </br>
 <a href="https://github.com/GabPhoenix/teste">link .exe</a>
 
 ### Language: 
