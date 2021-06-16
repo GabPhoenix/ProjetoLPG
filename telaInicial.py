@@ -4,7 +4,6 @@ import sys
 
 from tkinter import Image, StringVar
 
-
 from PIL import Image, ImageTk 
 from datetime import date, datetime
 import calendar
