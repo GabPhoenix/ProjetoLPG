@@ -153,7 +153,7 @@ self.label.configure(
 )
 ~~~
 
-<a>Learn more about Tkinter</a>
+<a href="https://wiki.python.org/moin/TkInter">Learn more about Tkinter</a>
 
 ## Main
 
