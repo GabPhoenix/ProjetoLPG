@@ -63,7 +63,7 @@ class Toplevel1:
                 self.logo.place(relx=0.007, rely=0.133, height=61, width=94) 
                 self.logo.configure(background="#d9d9d9") 
                 self.logo.configure(disabledforeground="#a3a3a3") 
-                logo = tk.PhotoImage(file="C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\logo.png") #image
+                logo = tk.PhotoImage(file="logo.png") #image
                 self.logo.configure(image=logo)
         
                 #market cart
@@ -106,7 +106,7 @@ class Toplevel1:
                 self.Button1.configure(foreground="#000000")
                 self.Button1.configure(highlightbackground="#d9d9d9")
                 self.Button1.configure(highlightcolor="black") 
-                bt1 = tk.PhotoImage(file="C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\btn.png") #image
+                bt1 = tk.PhotoImage(file="btn.png") #image
                 self.Button1.configure(image=bt1) 
                 self.Button1.configure(relief='flat') 
                 self.Button1.configure(cursor='hand2') 
@@ -136,7 +136,7 @@ class Toplevel1:
                 self.image_1.place(relx=0.081, rely=0.066, height=191, width=200)
                 self.image_1.configure(background="#d9d9d9")
                 self.image_1.configure(disabledforeground="#a3a3a3")
-                img1 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\tv.png')
+                img1 = tk.PhotoImage(file='tv.png')
                 self.image_1.configure(image=img1)
 
                 # seconde frame
@@ -192,7 +192,7 @@ class Toplevel1:
                 self.image_2.place(relx=0.082, rely=0.066, height=191, width=194)
                 self.image_2.configure(background="#d9d9d9")
                 self.image_2.configure(disabledforeground="#a3a3a3")
-                img2 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\lavadeira.png')#image
+                img2 = tk.PhotoImage(file='lavadeira.png')#image
                 self.image_2.configure(image=img2)
 
                 # third frame
@@ -249,7 +249,7 @@ class Toplevel1:
                 self.image_3.place(relx=0.082, rely=0.066, height=191, width=194)
                 self.image_3.configure(background="#d9d9d9")
                 self.image_3.configure(disabledforeground="#a3a3a3")
-                img3 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\celular.png')#image
+                img3 = tk.PhotoImage(file='celular.png')#image
                 self.image_3.configure(image=img3)
 
                 # fourth frame
@@ -306,7 +306,7 @@ class Toplevel1:
                 self.image_4.place(relx=0.0, rely=0.066, height=191, width=238)
                 self.image_4.configure(background="#d9d9d9")
                 self.image_4.configure(disabledforeground="#a3a3a3")
-                img4 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\airpods.png')#image
+                img4 = tk.PhotoImage(file='airpods.png')#image
                 self.image_4.configure(image=img4)
 
                 # fifth frame
@@ -363,7 +363,7 @@ class Toplevel1:
                 self.image_5.place(relx=0.118, rely=0.033, height=191, width=194)
                 self.image_5.configure(background="#d9d9d9")
                 self.image_5.configure(disabledforeground="#a3a3a3")
-                img5 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\forno.png')#image
+                img5 = tk.PhotoImage(file='forno.png')#image
                 self.image_5.configure(image=img5)
 
                 # sixth frame
@@ -419,7 +419,7 @@ class Toplevel1:
                 self.image_6.place(relx=0.082, rely=0.066, height=191, width=204)
                 self.image_6.configure(background="#d9d9d9")
                 self.image_6.configure(disabledforeground="#a3a3a3")
-                img6 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\cadeira.png')#image
+                img6 = tk.PhotoImage(file='cadeira.png')#image
                 self.image_6.configure(image=img6)
 
                 # seventh frame
@@ -476,7 +476,7 @@ class Toplevel1:
                 self.image_7.place(relx=0.0, rely=0.066, height=191, width=238)
                 self.image_7.configure(background="#d9d9d9")
                 self.image_7.configure(disabledforeground="#a3a3a3")
-                img7 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\impressora.png')#image
+                img7 = tk.PhotoImage(file='impressora.png')#image
                 self.image_7.configure(image=img7)
 
                 # eighth frame
@@ -532,7 +532,7 @@ class Toplevel1:
                 self.image_8.place(relx=0.082, rely=0.033, height=211, width=204)
                 self.image_8.configure(background="#d9d9d9")
                 self.image_8.configure(disabledforeground="#a3a3a3")
-                img8 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\notebook.png')#image
+                img8 = tk.PhotoImage(file='notebook.png')#image
                 self.image_8.configure(image=img8)
 
                 #nineth frame
@@ -589,7 +589,7 @@ class Toplevel1:
                 self.image_9.place(relx=0.039, rely=0.066, height=191, width=238)
                 self.image_9.configure(background="#d9d9d9")
                 self.image_9.configure(disabledforeground="#a3a3a3")
-                img9 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\kindle.png')#image
+                img9 = tk.PhotoImage(file='kindle.png')#image
                 self.image_9.configure(image=img9)
 
                 #tenth frame
@@ -645,7 +645,7 @@ class Toplevel1:
                 self.image_10.place(relx=0.079, rely=0.066, height=201, width=204)
                 self.image_10.configure(background="#d9d9d9")
                 self.image_10.configure(disabledforeground="#a3a3a3")
-                img10 = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\geladeira.png')#image
+                img10 = tk.PhotoImage(file='geladeira.png')#image
                 self.image_10.configure(image=img10)
 
                 self.top.mainloop()
@@ -685,7 +685,7 @@ class Toplevel1:
                 self.imgltop3.configure(background="#d9d9d9")
                 self.imgltop3.configure(disabledforeground="#a3a3a3")
                 self.imgltop3.configure(foreground="#000000")
-                img = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\logo.png')#image
+                img = tk.PhotoImage(file='logo.png')#image
                 self.imgltop3.configure(image=img)
         
                 #name (store)
@@ -962,7 +962,7 @@ class Toplevel1:
                 #label with the logo (png)
                 self.labf = tk.Label(self.top4)
                 self.labf.place(relx= 0.25, rely=0.0, width=200, height=185)
-                imloja = tk.PhotoImage(file='C:\\Users\\seven\\Desktop\\python\\app lpg\\img\\loj.png') #image
+                imloja = tk.PhotoImage(file='loj.png') #image
                 self.labf.configure(image=imloja)
                 
                 #loop
@@ -995,6 +995,14 @@ class Toplevel1:
                 na = self.entry_nas.get() #variable that gets the birthdate
                 if na == "":
                         na = "data de nascimento não informada"
+                        
+                #time
+                time = [[''],['']]
+                hour = date.today()
+                day = date.today()
+                dayname = calendar.day_name[day.weekday()]
+                time[0][0] = hour
+                time[1][0] = dayname
                 
                 #Writing a file txt
                 file = open("files_.txt", "w") #open the file
@@ -1005,13 +1013,7 @@ class Toplevel1:
                 file.write("preços:  \n")
                 for j in range(len(price)):
                         file.write(str(price[j])+"\n")
-                        
-                time = [[''],['']]
-                hour = date.today()
-                day = date.today()
-                dayname = calendar.day_name[day.weekday()]
-                time[0][0] = hour
-                time[1][0] = dayname
+       
                 
                 #start writing
                 file.write("forma de pagamento: " + v_rbtn + "\n")
