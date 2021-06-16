@@ -157,7 +157,7 @@ self.label.configure(
 
 ## Main
 
-####To main part, we needed build 2 lists to recive the products and the prices.
+#### To main part, we needed build 2 lists to recive the products and the prices.
 
 ~~~ python
 products = []
