@@ -3,6 +3,8 @@
 ## Colleges: Gabriel Carvalho and Rodrigo Rocha
 ## Professor: Phd Eugênio Saraiva
 
+<a href="https://youtu.be/ycRwjMsVPUE">Working video</a>
+
 ### Category: sales 
 ### Objectives: make easly for stores and clients to sell and purchase
 
